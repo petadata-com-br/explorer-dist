@@ -1,0 +1,7 @@
+[petadata-explorer]
+name=Petadata Explorer
+baseurl=https://petadata-com-br.github.io/explorer-dist/rpm
+enabled=1
+gpgcheck=1
+repo_gpgcheck=1
+gpgkey=https://petadata-com-br.github.io/explorer-dist/petadata.gpg

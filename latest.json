@@ -1,0 +1,31 @@
+{
+  "product": "petadata-explorer",
+  "version": "1.2.2",
+  "released_at": "2026-06-09T19:06:01Z",
+  "platforms": {
+    "windows": {
+      "type": "store",
+      "store_url": "https://apps.microsoft.com/detail/9N21S32Z84GX"
+    },
+    "linux": {
+      "deb": {
+        "url": "https://petadata-com-br.github.io/explorer-dist/apt/pool/main/p/petadata-explorer/petadata-explorer_1.2.2_amd64.deb",
+        "sha256": "84b8f7c6744e314841f51376db29629062837fa9ac06b21f9d693caa0f2c3f44",
+        "size": 11872230
+      },
+      "rpm": {
+        "url": "https://petadata-com-br.github.io/explorer-dist/rpm/petadata-explorer-1.2.2.x86_64.rpm",
+        "sha256": "5a946ab3581ab7d377cf7f731bfa01099591c785b3bcf56a5d7ec194b17d37dc",
+        "size": 11858160
+      },
+      "apt": {
+        "sources_line": "deb [arch=amd64 signed-by=/etc/apt/keyrings/petadata.gpg] https://petadata-com-br.github.io/explorer-dist/apt stable main",
+        "key_url": "https://petadata-com-br.github.io/explorer-dist/petadata.gpg"
+      },
+      "yum": {
+        "repo_file_url": "https://petadata-com-br.github.io/explorer-dist/rpm/petadata-explorer.repo",
+        "key_url": "https://petadata-com-br.github.io/explorer-dist/petadata.gpg"
+      }
+    }
+  }
+}
