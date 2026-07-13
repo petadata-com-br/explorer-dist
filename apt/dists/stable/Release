@@ -1,23 +1,23 @@
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Thu, 09 Jul 2026 21:37:30 +0000
+Date: Mon, 13 Jul 2026 13:01:59 +0000
 Label: Petadata Explorer
 Origin: Petadata
 Suite: stable
 MD5Sum:
- 1ac614a0d8b1e5cadb04e94172be2d28              149 Release
- ae87f8108da490012acd3c0afcb71c93             3000 main/binary-amd64/Packages
- abbefb76fdc05dada9be8b1b85306297             1081 main/binary-amd64/Packages.gz
+ 6e822f351ef06192cc234d0bddadf05f              149 Release
+ 9f71da875becda6ecac1a387d8873a77             3750 main/binary-amd64/Packages
+ 1823c5aa63dfb1e52a3a496c3857e35a             1272 main/binary-amd64/Packages.gz
 SHA1:
- a811e27de1f3d03cfdae48fd951c89f6696583cb              149 Release
- 9eebaff7efa1fa1768d940186f81dfc36b87feb0             3000 main/binary-amd64/Packages
- 18f7edb0a8eae0aa6cc5203db6fb04d9568bdc57             1081 main/binary-amd64/Packages.gz
+ 80e10779e8a94441ec28333abb68d2387b977bf8              149 Release
+ 3a562dd307acbf33e9dc50c0b9083be958ba70ac             3750 main/binary-amd64/Packages
+ c9ab08d0a92a0be010f7746f43434061a1489fc0             1272 main/binary-amd64/Packages.gz
 SHA256:
- 87d44bc89a34f254d5d79e8e089e59499262eebc7464e299c7fa3f73d7b5d1e2              149 Release
- ad181f72f526df4d994f5c70d0d131cc737b09bfb2bb91f7719ffb058ae78817             3000 main/binary-amd64/Packages
- 09966092080cba3576c852b993e68b4b3d5d00ced2589459b7138d1cd81881e4             1081 main/binary-amd64/Packages.gz
+ aab678c2042ec40c7dc440bff4e53c7b163b836dbee12693466c6ba9820cdc77              149 Release
+ 028425578ff5e1c0b71479abf7e4dfd69febe72862ae90490004dd354428f36a             3750 main/binary-amd64/Packages
+ 7d13dbc413146aa129a46d19e80254c6ed8067188947ac85be4132b65e938816             1272 main/binary-amd64/Packages.gz
 SHA512:
- 882472724c8ffee6ba3814c80a668bcbdd1ea86194abe4fd39530c101263ec24fb1cecf2efe9aa48e2698544ef6339d0b9ad720f9e5b3c9f6778adb9b4e10939              149 Release
- bc7f1903d2bc4c21f1876aac51e3a35322efd5342cd978e088f288239d4c2775df84ded0a6d28d3f12c00e861e569316a2be607dea55c620eabe41946008a4b5             3000 main/binary-amd64/Packages
- ab6dc4f4ed909887a4ceb50a6802c03c50284bd68fe8205140f57c53d7dd23fc189a78bf42db9d3f534ccdee2eea8a7b8ee9b7b5bebb2b2ca6be4d220954405e             1081 main/binary-amd64/Packages.gz
+ 7c7fef44ed60a137838cf5eedddd43166ab5b2c075c4bdec466bb71ed4aeb43603d25c94a8a0ad5f5f4ac9c1a049ff3ff5b3a16a6a9728cfddd6a0f74a3aea82              149 Release
+ 95870bb9ee9ee3e6b6bd79d37662b8e26dfee1d538f81eb6772dc051b263d0194344821be60a8b98b41c2137f0036f05766a57fd48f5fb1595ddd1500d977f0d             3750 main/binary-amd64/Packages
+ e1e8a180c78002a3aa2b768c274328666f5890ff86c74c690347b82e94d5a1b917982a6fe7e53f8190c9019a599e79c6722e3109bf854662dba177308a6eead6             1272 main/binary-amd64/Packages.gz
