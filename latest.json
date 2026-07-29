@@ -1,7 +1,7 @@
 {
   "product": "petadata-explorer",
-  "version": "1.6.3",
-  "released_at": "2026-07-28T17:52:29Z",
+  "version": "1.6.4",
+  "released_at": "2026-07-29T13:25:02Z",
   "platforms": {
     "windows": {
       "type": "store",
@@ -9,14 +9,14 @@
     },
     "linux": {
       "deb": {
-        "url": "https://petadata-com-br.github.io/explorer-dist/apt/pool/main/p/petadata-explorer/petadata-explorer_1.6.3_amd64.deb",
-        "sha256": "6a2ef804f3377e935cac5d1a536e556de9aa081ef324a556679129a732f9a6e1",
-        "size": 11916384
+        "url": "https://petadata-com-br.github.io/explorer-dist/apt/pool/main/p/petadata-explorer/petadata-explorer_1.6.4_amd64.deb",
+        "sha256": "062777d1cfd3e6972a9ee368a56ff60c58077cf42680b76a01bf9d476edfeaab",
+        "size": 11918154
       },
       "rpm": {
-        "url": "https://petadata-com-br.github.io/explorer-dist/rpm/petadata-explorer-1.6.3.x86_64.rpm",
-        "sha256": "69e19198791947b707f6d2129e87c947dfa7631ff836fbcef559bbbaa7b74a1d",
-        "size": 11897460
+        "url": "https://petadata-com-br.github.io/explorer-dist/rpm/petadata-explorer-1.6.4.x86_64.rpm",
+        "sha256": "dec5e355cb2c57c2bbcad61a093df304937c454c159c4827d9c2d4f79154d5ec",
+        "size": 11898681
       },
       "apt": {
         "sources_line": "deb [arch=amd64 signed-by=/etc/apt/keyrings/petadata.gpg] https://petadata-com-br.github.io/explorer-dist/apt stable main",
