@@ -416,3 +416,22 @@ Description: Petadata Explorer - browse and manage your Petadata storage.
 License: Proprietary
 Vendor: Petadata
 
+Package: petadata-explorer
+Architecture: amd64
+Version: 1.8.3
+Priority: optional
+Section: utils
+Maintainer: Petadata <tm@petadata.com.br>
+Installed-Size: 44607
+Depends: libgtk-3-0, libblkid1, liblzma5, libsecret-1-0, libegl1, libgles2, zenity | kdialog | qarma
+Filename: pool/main/p/petadata-explorer/petadata-explorer_1.8.3_amd64.deb
+Size: 16666184
+MD5sum: 366406536090fa7d982d69156277a6e9
+SHA1: 4c67bf8734624eccb0c7479cb2e9dba13e30ec34
+SHA256: 09be304dae58f11eda68c5d9a3df7e116106a075d2c269e1e0071d4374a4a2e0
+SHA512: 2d7a50b86a3744dd4dddbbf110bf673257caed7ae18a94036caba18435e7c98ca298e5d517d1b308b4df205dda1de2d02fb3a76ea7793b62609ed1ddff35fd7c
+Homepage: https://petadata.com.br
+Description: Petadata Explorer - browse and manage your Petadata storage.
+License: Proprietary
+Vendor: Petadata
+
