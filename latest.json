@@ -1,7 +1,7 @@
 {
   "product": "petadata-explorer",
   "version": "1.8.2",
-  "released_at": "2026-11-17T18:42:04Z",
+  "released_at": "2026-11-19T14:01:37Z",
   "platforms": {
     "windows": {
       "type": "store",
@@ -15,7 +15,7 @@
       },
       "rpm": {
         "url": "https://petadata-com-br.github.io/explorer-dist/rpm/petadata-explorer-1.8.2.x86_64.rpm",
-        "sha256": "4763be34821ad165dd3e79c3ac4c5f777a20dd7b9fbc4e57d0f4c1fbda45d8ac",
+        "sha256": "38d8c4cda819cdffaf81bc7278ce587c098ba243657093a31c2e8845a5a5a09c",
         "size": 16542415
       },
       "apt": {

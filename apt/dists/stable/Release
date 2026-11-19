@@ -1,23 +1,23 @@
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Tue, 17 Nov 2026 18:42:06 +0000
+Date: Thu, 19 Nov 2026 14:01:40 +0000
 Label: Petadata Explorer
 Origin: Petadata
 Suite: stable
 MD5Sum:
- 555c3f6ed02e223d19cb0244f498787d              149 Release
+ cb098795ee9b2d54fb4814f960546c53              149 Release
  a090c07378d296a4e855859a0824a9f6            16723 main/binary-amd64/Packages
- c77ac258ec41b57f0dc54d403005b7cb             4462 main/binary-amd64/Packages.gz
+ 77c0ff8c3da6cad28d9011ac26db0a24             4462 main/binary-amd64/Packages.gz
 SHA1:
- 7d007312e355b1c0bf921f3580443f297af3e4d5              149 Release
+ b932e475c79c79f2be733ea9f4fe44766cbafbbf              149 Release
  7ba226ec1cc66c86bdc283452690cb3ea92e888d            16723 main/binary-amd64/Packages
- 1076c963811ae55fd3d4f00a6623f3893608810f             4462 main/binary-amd64/Packages.gz
+ ba339d50a3c8ea243224aff4d1353846c8e9aa6d             4462 main/binary-amd64/Packages.gz
 SHA256:
- ba24562c7c09206aa0637d1f15977fad4224f7de4fdc5fc84410e7f84369450a              149 Release
+ cecdc977423504f4d7a8033f27e6fc35226a0148e7adaa0d1b21c0b771ad0471              149 Release
  953d226f1d33f50a334923770f06cb8cfd528ff08a32e9cb506188cc65b6bfef            16723 main/binary-amd64/Packages
- b6bec674145783c6875490c6cf63cd90e067ef772c865188e908a0c23862327f             4462 main/binary-amd64/Packages.gz
+ a7d6537429ab7d804a03ea8775b0eb7bfda7f472bed833e9f50e84978f3727a4             4462 main/binary-amd64/Packages.gz
 SHA512:
- 76cca6bae9547aac76d707e2b031143263131aa46b8ab70ebf282109ef25c2c328f201c9b6faad99148af4027a0e66e8cb51d29d4c728a4bd259065407dc60a5              149 Release
+ c7a84a0765519628d949377098098e0bbe08dbad8bebaa1cd6c3718f22e982137b99135017cdc16eeee485ccc7abb5f0d0f51984129878a0065a28d9247c5f3d              149 Release
  c795b915891ecce6c473fec53959f2caec2de5318f360e9d923c4529fd49ac9c4d3b0c7bd076c7378f2467bb2e319226146e21ddaf7b2fee2ca73ad0a6e52327            16723 main/binary-amd64/Packages
- bb751a891165abb8e9fad3b7228b92fc4be3c3fd8b40016bea1694d66cc017eadfe3e67c9afddc2629ebfe5924bcd318bff78fe0cebf825549ca3ba3beb5e6ca             4462 main/binary-amd64/Packages.gz
+ fb436f87f936b67ae2a4c0638347620aa7e1f9e1c6075f63dc2bf1a682710dde6f0759dec542bd1a596423678dbdcce68eda2b455e12e75744390ad0c0b542a5             4462 main/binary-amd64/Packages.gz
